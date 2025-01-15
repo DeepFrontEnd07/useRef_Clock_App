@@ -1,0 +1,31 @@
+body{
+  background-color:rgba(0, 0, 0, 0.868);
+}
+h1{
+  color:white;
+  text-align: center;
+  margin-top: 40px;
+}
+h2{
+  color:white;
+  text-align:center;
+  font-size: 40px;
+  margin-top:130px;
+}
+.buttons{
+  margin-top:60px;
+  margin-left: 440px;
+}
+button{
+  width:100px;
+  height:50px;
+  cursor:pointer;
+  background-color: black;
+  color:white;
+  margin-left: 20px;
+  font-size: 22px;
+  border:white 1px solid;
+}
+button:hover{
+  border:aqua 2px solid;
+}
