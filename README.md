@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# useRef Clock App
+
+🚀 Features                                                                                                                                                                  
+
+--> React Framework: Built using React.js to provide a dynamic and efficient user experience.                                                                                
+--> useRef Integration: Utilizes the useRef hook to manage the timer's setInterval reference for precise control.                                                            
+--> Timer Functionality: Includes Start, Stop, and Reset features for a simple yet effective timer application.                                                               
+--> Clean UI: Provides a minimal and user-friendly interface with responsive design.                                                                                         
+
+🛠️ Technologies Used                                                                                                                                                         
+
+--> Frontend: React.js using hooks like useState and useRef for managing state and references.                                                                              
+--> State Management: useState for handling the timer count dynamically.                                                                                                      
+--> Styling: CSS for a clean and responsive design tailored to provide a seamless user experience.                                                                           
+
+Visit the Live Link: 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
